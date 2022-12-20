@@ -55,4 +55,11 @@
 
 + GET/single_user/{id}: Returns the details of a user from the database.
 
+## The API Image
+
+<img width="1430" alt="Screenshot 2022-12-20 at 10 05 33 PM" src="https://user-images.githubusercontent.com/82315783/208775974-6f2f4c0f-0ce7-4f9e-992d-bc0a596d35ac.png">
+
+
+
+
 
