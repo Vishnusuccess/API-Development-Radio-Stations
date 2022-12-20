@@ -1,13 +1,13 @@
 ﻿1. What libraries did you add to the application? What are they used for?
 
 * FastAPI: or building APIs with Python, based on standard Python type hints
-*  SQLAlchemy:  facilitates the communication between python program and database
+* SQLAlchemy:  facilitates the communication between python program and database
 * Pydantic: for data modelling/parsing that has efficient error handling and a custom validation mechanism
 * Alembic:  database migrations
 
 2. What’s the command to start the application locally?
 
-uvicorn main:app --reload
+  uvicorn main:app --reload
 
 3. If you had more time, what further improvements or new features would you add?
 
@@ -16,7 +16,7 @@ uvicorn main:app --reload
 
 4. Which parts are you most proud of? And why?
 
-The part I am most proud of is implementing ORM in the application. Though familiar with the concept, it was the first time implementing it. I learned a lot more about the relational databases, and most importantly the interactions between the database and the OOP. I learned a new tool while implementing the ORM, SQLAlchemy, and it was interesting.
+  The part I am most proud of is implementing ORM in the application. Though familiar with the concept, it was the first time implementing it. I learned a   lot more about the relational databases, and most importantly the interactions between the database and the OOP. I learned a new tool while implementing   the ORM, SQLAlchemy, and it was interesting.
 
 5. Which parts did you spend the most time with? What did you find most difficult?
 
